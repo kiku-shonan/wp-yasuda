@@ -17,16 +17,23 @@
 	<div id="fh5co-gallery" class="fh5co-section">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12 fh5co-heading">
+				<div class="col-md-12 fh5co-heading animate-box">
 					<h2>オーダーメイド犬服</h2>
+					<div class="row">
+						<div class="col-md-6">
+							<p>飼い主さんのお洋服を犬服にリメイク…<br>特別な１着にお仕立てします。<br>
+							ex.)&nbsp;&nbsp;ダックスましゃくんが噛んで穴の開いたトレーナーを「目玉Ｔシャツ」へリメイク。</p>
+						</div>
+					</div>
 				</div>
 
 				<div class="col-md-6 col-sm-6 fh5co-gallery_item">
-					<div class="fh5co-bg-img fh5co-gallery_big" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_10.jpg);" data-trigger="zoomerang"></div>
+					<div class="fh5co-bg-img fh5co-gallery_big" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_1.jpg);" data-trigger="zoomerang"></div>
 				</div>
 				<div class="col-md-6 col-sm-6 fh5co-gallery_item">
-					<div class="fh5co-bg-img fh5co-gallery_big" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_5.jpg);" data-trigger="zoomerang"></div>
+					<div class="fh5co-bg-img fh5co-gallery_big" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_2.jpg);" data-trigger="zoomerang"></div>
 				</div>
+				<h3>オーダーメイド例</h3>
 				<div class="col-md-3 col-sm-6 fh5co-gallery_item">
 					<div class="fh5co-bg-img" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_3.jpg);" data-trigger="zoomerang"></div>
 					<div class="fh5co-bg-img" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_4.jpg);" data-trigger="zoomerang"></div>
@@ -36,30 +43,15 @@
 					<div class="fh5co-bg-img" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_7.jpg);" data-trigger="zoomerang"></div>
 				</div>
 				<div class="col-md-6 col-sm-6 fh5co-gallery_item">
+					<div class="fh5co-bg-img fh5co-gallery_big" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_10.jpg);" data-trigger="zoomerang"></div>
+				</div>
+				<div class="col-md-6 col-sm-6 fh5co-gallery_item">
+					<div class="fh5co-bg-img fh5co-gallery_big" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_5.jpg);" data-trigger="zoomerang"></div>
+				</div>	
+				<div class="col-md-6 col-sm-6 fh5co-gallery_item">
 					<div class="fh5co-bg-img fh5co-gallery_big" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_6.jpg);" data-trigger="zoomerang"></div>
 				</div>
-			</div>
-			<h2 class="gallery-h2 text-center">『飼い主さんのお洋服を犬服にリメイク…　特別な１着にお仕立てします。』</h2>
-		</div>
-	</div>
 
-	<div id="fh5co-gallery" class="fh5co-section">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12 fh5co-heading fh5co-heading-h3 animate-box">
-					<h3>オーダーメイド例</h3>
-					<div class="row">
-						<div class="col-md-12">
-							<p>ダックスましゃくんが噛んで穴の開いたトレーナーを「目玉Ｔシャツ」へリメイク。</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6 col-sm-6 fh5co-gallery_item">
-					<div class="fh5co-bg-img fh5co-gallery_big" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_1.jpg);" data-trigger="zoomerang"></div>
-				</div>
-				<div class="col-md-6 col-sm-6 fh5co-gallery_item">
-					<div class="fh5co-bg-img fh5co-gallery_big" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_2.jpg);" data-trigger="zoomerang"></div>
-				</div>
 			</div>
 		</div>
 	</div>
@@ -69,16 +61,16 @@
 			<div class="row">
 				<div class="col-md-10 col-md-push-1 animate-box">
 					<div class="section-heading">
-						<h2>①お打ち合わせ</h2>
+						<h2>①打ち合わせ</h2>
 						<p>・採寸はワンちゃんにお会いして実寸を計ります。<br>・デザインは、その時にお伺いして決めて行きます。</p>
-						<p>※お会いしてお打ち合わせ出来ない場合は、ご相談下さい。</p>
+						<p>※お会いして打ち合わせ出来ない場合は、ご相談下さい。</p>
 					</div>
 				</div>
 				<div class="col-md-10 col-md-push-1 animate-box">
 					<div class="section-heading">
-						<h2>②ご予算</h2>
-						<p>・布（お洋服）持ち込み　　　　−　2,000円（税込）〜</p>
-						<p>・生地（布）お任せも承ります　−　3,000円（税込）〜</p>
+						<h2>②金額</h2>
+						<p>・布（お洋服）持ち込み　ー　2,000円（税込）〜</p>
+						<p>・生地（布）お任せも承ります　ー　3,000円（税込）〜</p>
 					</div>
 				</div>
 				<div class="col-md-10 col-md-push-1 animate-box">
@@ -114,9 +106,6 @@
 			// ここから表示する内容を記入
 			?>
 			<div class="row">
-				<div class="col-md-12 fh5co-heading animate-box">
-					<h2>オーダーメイド犬服紹介</h2>
-				</div>
 
                 <?php while ( $the_query->have_posts() ) : $the_query->the_post();
                 // -------- ここから繰り返し---------- ?>

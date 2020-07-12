@@ -18,8 +18,14 @@
 		<div class="container fh5co-section">
 			<div class="row">
 				<div class="col-md-8 col-xs-12 cover-row center-block">
+					<!--
+					<div class="overlay"></div>
+					-->
 					<div class="cover-img" style="background-image:url(<?php echo get_template_directory_uri(); ?>/images/top01.jpg);">
 						<div class="col-xs-12 cover-text center-block">
+							<!--
+							<p>富山初&#133;<br><a href="<?php echo home_url( '/ordermade/' ); ?>">ドッグウェアクリエイター&reg;</a>認定講師の<br><span class="text-right">Yumikoです。</span></p>
+							-->
 							<p>富山初&#133;</br>
 							<a href="<?php echo home_url( '/ordermade/' ); ?>">ドッグウェアクリエイター&reg;</a>認定講師の</p>
 							<p class="text-right">Yumikoです。</p>
@@ -33,10 +39,10 @@
 			<div class="row">
 				<div class="col-md-8 col-xs-12 cover-row center-block">
 					<div class="cover-img" style="background-image:url(<?php echo get_template_directory_uri(); ?>/images/top02.jpg);">
-						<div class="col-xs-12 cover-text-low center-block">
+						<div class="col-xs-12 cover-text center-block">
 							<p>先代が始めた</br>
 							呉服店「きものやすだ」がアトリエ。</p>
-							<p class="text-height">その空間で</br>
+							<p>その空間で</br>
 							<a href="https://petwear.or.jp/" target=”_blank”>日本ペット服手作り協会</a>公認の</p>
 							<p class="text-right">犬服教室を始めました。</p>
 						</div>
@@ -92,6 +98,9 @@
 					<div class="fh5co-blog animate-box">
 						<a href="<?php the_permalink(); ?>" class="blog-bg" style="background-image: url(<?php the_post_thumbnail_url(); ?>);"></a>
 						<div class="blog-text">
+							<!--
+							<span class="posted_on">Feb. 15th 2016</span>
+							-->
 							<span class="entry-date_month"><?php echo get_post_time('M');//投稿月を表示 ?></span>
 							<span class="entry-date_day"><?php the_time('d');//投稿日を表示 ?></span>
 							<span class="entry-date_year"><?php the_time('Y');//投稿年を表示 ?></span>

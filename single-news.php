@@ -55,15 +55,6 @@
 						</div>
 						<div class="row">
 							<div class="col-md-10 col-md-offset-1">
-								<div class="fh5co-blog animate-box">
-									<div class="blog-text">
-										<div class="col-md-10 col-md-offset-1"><?php comments_template(); //コメントテンプレートを取得 ?></div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-10 col-md-offset-1">
 								<div class="row">
 									<div class="col-xs-6"><?php next_post_link('%link', '&laquo; 次の記事' ); //新しい記事へのリンクを表示 ?></div>
 									<div class="col-xs-6 text-right"><?php previous_post_link('%link', '前の記事 &raquo;' ); //古い記事へのリンクを表示 ?></div>
