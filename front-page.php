@@ -33,7 +33,7 @@
 			<div class="row">
 				<div class="col-md-8 col-xs-12 cover-row center-block">
 					<div class="cover-img" style="background-image:url(<?php echo get_template_directory_uri(); ?>/images/top02.jpg);">
-						<div class="col-xs-12 cover-text-low center-block">
+						<div class="col-xs-12 cover-text center-block">
 							<p>先代が始めた</br>
 							呉服店「きものやすだ」がアトリエ。</p>
 							<p class="text-height">その空間で</br>

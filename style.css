@@ -925,12 +925,6 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 0;
 }
 
-#fh5co-featured-testimony .cover-text-low {
-  position: absolute;
-  margin-top: 500px;
-  padding: 0;
-}
-
 #fh5co-featured-testimony p {
   border: none;
   position: relative;
@@ -1007,14 +1001,8 @@ h1, h2, h3, h4, h5, h6, figure {
     top: 1%;
     z-index: 1;
   }
-  #fh5co-featured-testimony .cover-text-low {
-    position: absolute;
-    margin-top: 150px;
-    top: 1%;
-    z-index: 1;
-  }
   #fh5co-featured-testimony .text-height {
-    margin-top: 30px;
+    margin-top: 10px;
   }
   #fh5co-featured-testimony p {
     position: relative;
