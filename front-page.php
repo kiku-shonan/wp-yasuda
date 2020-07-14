@@ -34,8 +34,8 @@
 				<div class="col-md-8 col-xs-12 cover-row center-block">
 					<div class="cover-img" style="background-image:url(<?php echo get_template_directory_uri(); ?>/images/top02.jpg);">
 						<div class="col-xs-12 cover-text center-block">
-							<p>先代が始めた</br>
-							呉服店「きものやすだ」がアトリエ。</p>
+							<p>先代が始めた呉服店</p>
+							<p class="text-center">「きものやすだ」がアトリエ。</p>
 							<p class="text-height">その空間で</br>
 							<a href="https://petwear.or.jp/" target=”_blank”>日本ペット服手作り協会</a>公認の</p>
 							<p class="text-right">犬服教室を始めました。</p>

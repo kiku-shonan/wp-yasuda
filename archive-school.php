@@ -131,12 +131,12 @@
 				</div>
 				<div class="col-md-10 col-md-push-1 animate-box">
 					<div class="section-heading">
-						<h1>『入門講座終了後は、ホビー講座へ！！』</h1>
+						<h1>『入門講座終了後は、ホビー講座へ！』</h1>
 						<p>いろいろなお洋服にチャレンジできます。</p>
-						<h2>⑥ホビー講座の内容</h2>
-						<p>Ⅰ. ホビー講座　（１回につき４時間の講座）<br>
-						（１回で作品完成。入門講座を終了された方が受講できます。）</p>
-						<p>作品例）</p>
+						<h2>◆ ホビー講座の内容</h2>
+						<p>Ⅰ. ホビー講座<br>
+						　１回につき４時間の講座で作品完成</p>
+						<p>作品例）<br>※アイテムは２０種類以上あります。</p>
 						<div class="container-fluid">
 							<div class"row">
 								<div class="cover-flow">
@@ -171,7 +171,7 @@
 				</div>
 				<div class="col-md-10 col-md-push-1 animate-box">
 					<div class="section-heading">
-						<h2>⑦お申し込み方法</h2>
+						<h2>お申し込み方法</h2>
 						<p>HP内<a href="<?php echo home_url( '/contact/' ); ?>" >お問い合わせフォーム</a>または、<a href="https://www.instagram.com/kimonoyasuda"><i class="icon-instagram2"></i>&nbsp;Instagram</a>のDMよりご連絡下さい。</p>
 						<p><a href="<?php echo home_url( '/contact/' ); ?>" class="btn btn-primary btn-outline">Contact</a></p>
 					</div>

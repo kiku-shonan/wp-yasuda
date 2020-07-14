@@ -22,14 +22,10 @@
 				</div>
 
 				<div class="col-md-6 col-sm-6 fh5co-gallery_item">
-					<div class="fh5co-bg-img fh5co-gallery_big" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_10.jpg);" data-trigger="zoomerang"></div>
-				</div>
-				<div class="col-md-6 col-sm-6 fh5co-gallery_item">
 					<div class="fh5co-bg-img fh5co-gallery_big" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_5.jpg);" data-trigger="zoomerang"></div>
 				</div>
-				<div class="col-md-3 col-sm-6 fh5co-gallery_item">
-					<div class="fh5co-bg-img" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_3.jpg);" data-trigger="zoomerang"></div>
-					<div class="fh5co-bg-img" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_4.jpg);" data-trigger="zoomerang"></div>
+				<div class="col-md-6 col-sm-6 fh5co-gallery_item">
+					<div class="fh5co-bg-img fh5co-gallery_big" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_10.jpg);" data-trigger="zoomerang"></div>
 				</div>
 				<div class="col-md-3 col-sm-6 fh5co-gallery_item">
 					<div class="fh5co-bg-img" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_8.jpg);" data-trigger="zoomerang"></div>
@@ -38,8 +34,13 @@
 				<div class="col-md-6 col-sm-6 fh5co-gallery_item">
 					<div class="fh5co-bg-img fh5co-gallery_big" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_6.jpg);" data-trigger="zoomerang"></div>
 				</div>
+				<div class="col-md-3 col-sm-6 fh5co-gallery_item">
+					<div class="fh5co-bg-img" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_3.jpg);" data-trigger="zoomerang"></div>
+					<div class="fh5co-bg-img" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/gallery_4.jpg);" data-trigger="zoomerang"></div>
+				</div>
 			</div>
-			<h2 class="gallery-h2 text-center">『飼い主さんのお洋服を犬服にリメイク…　特別な１着にお仕立てします。』</h2>
+			<h2 class="col-md-8 col-md-offset-2 gallery-h2">『飼い主様のお洋服を犬服にリメイク…</h2>
+			<h2 class="col-md-7 col-md-offset-5 gallery-h3">特別な一着にお仕立てします。』</h2>
 		</div>
 	</div>
 
